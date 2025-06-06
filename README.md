@@ -26,5 +26,6 @@ source coin_env/bin/activate
    
 Running the System
 1. Training Mode
+   
 run project
 
